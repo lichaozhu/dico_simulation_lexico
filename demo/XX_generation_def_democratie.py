@@ -45,7 +45,7 @@ w = codecs.open('./def_sem/Reseaux_democratie.txt', 'w+', 'utf-8')
 
 bibi = codecs.open("./def_sem/phras_opaq_defi.txt", "w+", "utf-8")
 
-z = codecs.open("DAF.txt", "r", "utf-8")
+z = codecs.open("DAF_sample.txt", "r", "utf-8")
 contenu = z.read()
 z.close()
 
