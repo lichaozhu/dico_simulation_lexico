@@ -4,4 +4,4 @@ Il a pour objectif de simuler le processus de création de réseaux sémantiques
 
 
 	input -> un dictionnaire électronique en .txt
-	output -> réseaux sémantiques d'un mot (à définir par l'utilisateur"
+	output -> réseaux sémantiques d'un mot (à définir par l'utilisateur)
